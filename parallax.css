@@ -1,0 +1,137 @@
+html,body{
+    background-color: black;
+    height: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    color: white;
+}
+.logo{
+    background-image: url('nation.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+.bglogo a{
+    text-decoration: none;
+    color: white;
+}
+.car1{
+    background-image: url('lfa.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgcar1 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar2 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar3 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar4 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar5 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar6 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar7 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar8 a{
+    text-decoration: none;
+    color: white;
+
+}
+.bgcar9 a{
+    text-decoration: none;
+    color: white;
+
+}
+.car2{
+    background-image: url('gtr.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car3{
+    background-image: url('civic.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car4{
+    background-image: url('mazda.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car5{
+    background-image: url('nsk.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car6{
+    background-image: url('silvia.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car7{
+    background-image: url('toyota.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car8{
+    background-image: url('evo.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.car9{
+    background-image: url('subaru.jpg');
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
